@@ -38,7 +38,7 @@ A modern, responsive dashboard for managing AI-generated avatars with full CRUD 
 1. Clone the repository:
 
 \`\`\`bash
-git clone https://github.com/yourusername/ai-avatar-dashboard.git
+git clone https://github.com/tm33976/Avatar_Dashboard.git
 cd ai-avatar-dashboard
 \`\`\`
 
